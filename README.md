@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Kaygijzen Developer's stats](https://github-readme-stats.vercel.app/api?username=kaygijzen&include_all_commits=true&show_icons=true&theme=nightowl)](https://github.com/kaygijzen/)
 
-<!-- [![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaygijzen&layout=compact)](https://github.com/Trik-Flip/) -->
+[![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaygijzen&layout=compact)](https://github.com/Trik-Flip/)
 <!-- These cards are from https://github.com/anuraghazra/github-readme-stats -->
