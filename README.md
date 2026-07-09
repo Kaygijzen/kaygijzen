@@ -12,10 +12,11 @@
 
 ### About Me
 
-🎓 MSc Computer Science (Artificial Intelligence)  
-👨‍💻 Focused on backend systems, cloud infrastructure, and MLOps  
-🧠 Experienced in model evaluation, fine-tuning workflows, and production deployment  
-⚙️ Passionate about scalable, reliable systems that turn advanced ML into real-world products  
+🎓 MSc Computer Science, Leiden University  
+🤖 AI Engineer building agentic AI systems, RAG pipelines, and LLM integrations  
+🔬 Research background in deep learning
+🛠️ Full-stack: from model training and MLOps to backend, APIs, and production deployment  
+🚀 Focused on shipping AI that actually runs in production
 
 ---
 
